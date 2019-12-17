@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Rei_LevelEditer" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Rei_LevelEditer" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="include" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Rei_LevelEditer" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="include" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-std=c++11" />
+			<Add directory="C:/SDL2_ttf-2.0.14/i686-w64-mingw32/include/SDL2" />
+			<Add directory="C:/SDL2_image-2.0.1/i686-w64-mingw32/include/SDL2" />
+			<Add directory="C:/SDL2-2.0.5/i686-w64-mingw32/include/SDL2" />
+		</Compiler>
+		<Linker>
+			<Add option="-lmingw32  -lSDL2main -lSDL2 -lSDL2_image -lSDL2_ttf" />
+			<Add directory="C:/SDL2_ttf-2.0.14/i686-w64-mingw32/lib" />
+			<Add directory="C:/SDL2_image-2.0.1/i686-w64-mingw32/lib" />
+			<Add directory="C:/SDL2-2.0.5/i686-w64-mingw32/lib" />
+		</Linker>
+		<Unit filename="Startup.cpp" />
+		<Unit filename="game.cpp" />
+		<Unit filename="game.h" />
+		<Unit filename="include/Map.h" />
+		<Unit filename="include/Select_tile_Tool.h" />
+		<Unit filename="include/Text.h" />
+		<Unit filename="include/Tile.h" />
+		<Unit filename="include/UI.h" />
+		<Unit filename="include/currentTile.h" />
+		<Unit filename="input.cpp" />
+		<Unit filename="input.h" />
+		<Unit filename="keys.cpp" />
+		<Unit filename="main.cpp" />
+		<Unit filename="mouse.cpp" />
+		<Unit filename="src/Map.cpp" />
+		<Unit filename="src/Select_tile_Tool.cpp" />
+		<Unit filename="src/Text.cpp" />
+		<Unit filename="src/Tile.cpp" />
+		<Unit filename="src/UI.cpp" />
+		<Unit filename="src/currentTile.cpp" />
+		<Unit filename="timer.cpp" />
+		<Unit filename="timer.h" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

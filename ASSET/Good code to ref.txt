@@ -1,0 +1,43 @@
+https://en.wikibooks.org/wiki/C%2B%2B_Programming/Classes/Abstract_Classes 
+
+class DrawableObject 
+ {
+  public:
+    virtual void Draw(GraphicalDrawingBoard&) const = 0; //draw to GraphicalDrawingBoard
+ };
+
+ class Triangle : public DrawableObject
+ {
+ public:
+   void Draw(GraphicalDrawingBoard&) const; //draw a triangle
+ };
+
+ class Rectangle : public DrawableObject
+ {
+ public:
+   void Draw(GraphicalDrawingBoard&) const; //draw a rectangle
+ };
+
+ class Circle : public DrawableObject
+ {
+ public:
+   void Draw(GraphicalDrawingBoard&) const; //draw a circle
+ };
+
+ typedef std::list<DrawableObject*> DrawableList;
+
+ DrawableList drawableList;
+ GraphicalDrawingBoard drawingBoard;
+
+ drawableList.pushback(new Triangle());
+ drawableList.pushback(new Rectangle());
+ drawableList.pushback(new Circle());
+
+ for(DrawableList::const_iterator iter = drawableList.begin(), 
+    endIter = drawableList.end();
+    iter != endIter;
+    ++iter)
+ { 
+   DrawableObject *object = *iter;
+   object->Draw(drawingBoard);
+ }

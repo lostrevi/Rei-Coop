@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="src\Map.cpp" open="1" top="1" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4557" topLine="188" />
+		</Cursor>
+	</File>
+	<File name="include\Map.h" open="1" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="904" topLine="39" />
+		</Cursor>
+	</File>
+	<File name="keys.cpp" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4389" topLine="180" />
+		</Cursor>
+	</File>
+	<File name="game.cpp" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2182" topLine="21" />
+		</Cursor>
+	</File>
+	<File name="game.h" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="616" topLine="47" />
+		</Cursor>
+	</File>
+	<File name="src\currentTile.cpp" open="1" top="0" tabpos="10" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="593" topLine="33" />
+		</Cursor>
+	</File>
+	<File name="include\currentTile.h" open="1" top="0" tabpos="11" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="67" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="include\Tile.h" open="1" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="660" topLine="15" />
+		</Cursor>
+	</File>
+	<File name="src\Tile.cpp" open="1" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1116" topLine="18" />
+		</Cursor>
+	</File>
+	<File name="input.cpp" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="17121" topLine="588" />
+		</Cursor>
+	</File>
+	<File name="src\UI.cpp" open="1" top="0" tabpos="14" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="690" topLine="18" />
+		</Cursor>
+	</File>
+	<File name="include\UI.h" open="1" top="0" tabpos="13" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="720" topLine="30" />
+		</Cursor>
+	</File>
+	<File name="src\Select_tile_Tool.cpp" open="1" top="0" tabpos="12" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2185" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Startup.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1716" topLine="46" />
+		</Cursor>
+	</File>
+	<File name="mouse.cpp" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="554" topLine="0" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>

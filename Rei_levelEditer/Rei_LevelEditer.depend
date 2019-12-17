@@ -1,0 +1,413 @@
+# depslib dependency file v1.0
+1508420970 source:c:\users\derekslager\documents\junk\rei_levelediter\game.cpp
+	"Game.h"
+
+1508428445 c:\users\derekslager\documents\junk\rei_levelediter\game.h
+	"include/UI.h"
+
+1504101279 c:\users\derekslager\documents\junk\rei_levelediter\input.h
+	"timer.h"
+
+1508251364 c:\users\derekslager\documents\junk\rei_levelediter\timer.h
+	<iostream>
+	<math.h>
+	<cmath>
+	<string>
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<SDL_ttf.h>
+	<vector>
+	<stdlib.h>
+	<cstdlib>
+	<cstdio>
+	<time.h>
+	<sstream>
+	<memory>
+	<set>
+	<fstream>
+
+1476935894 c:\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<sal.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1476935894 c:\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1476935894 c:\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\begin_code.h
+
+1476935894 c:\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\close_code.h
+
+1476935894 c:\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1476935894 c:\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<mbarrier.h>
+	"close_code.h"
+
+1476935894 c:\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1476935894 c:\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mmintrin.h>
+	<mm3dnow.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1476935894 c:\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1476935894 c:\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1476935894 c:\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476935894 c:\sdl2-2.0.5\i686-w64-mingw32\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451803973 c:\sdl2_image-2.0.1\i686-w64-mingw32\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1454366533 c:\sdl2_ttf-2.0.14\i686-w64-mingw32\include\sdl2\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1504101279 source:c:\users\derekslager\documents\junk\rei_levelediter\input.cpp
+	"input.h"
+
+1508429296 source:c:\users\derekslager\documents\junk\rei_levelediter\keys.cpp
+	"game.h"
+
+1504101279 source:c:\users\derekslager\documents\junk\rei_levelediter\main.cpp
+	"game.h"
+
+1508335657 source:c:\users\derekslager\documents\junk\rei_levelediter\mouse.cpp
+	"game.h"
+
+1504103030 source:c:\users\derekslager\documents\junk\rei_levelediter\startup.cpp
+	"Game.h"
+
+1504101279 source:c:\users\derekslager\documents\junk\rei_levelediter\timer.cpp
+	"timer.h"
+
+1508429467 c:\users\derekslager\documents\junk\rei_levelediter\include\map.h
+	"Tile.h"
+
+1508429989 c:\users\derekslager\documents\junk\rei_levelediter\include\tile.h
+	"../input.h"
+
+1508428390 source:c:\users\derekslager\documents\junk\rei_levelediter\src\map.cpp
+	"../include/Map.h"
+
+1508427116 source:c:\users\derekslager\documents\junk\rei_levelediter\src\tile.cpp
+	"../include/Tile.h"
+
+1508421116 c:\users\derekslager\documents\junk\rei_levelediter\include\ui.h
+	"Select_tile_Tool.h"
+
+1508419214 c:\users\derekslager\documents\junk\rei_levelediter\include\currenttile.h
+	"Text.h"
+
+1508332108 source:c:\users\derekslager\documents\junk\rei_levelediter\src\currenttile.cpp
+	"currentTile.h"
+
+1508421116 source:c:\users\derekslager\documents\junk\rei_levelediter\src\ui.cpp
+	"UI.h"
+
+1508338059 c:\users\derekslager\documents\junk\rei_levelediter\include\select_tile_tool.h
+	"currentTile.h"
+
+1508338970 source:c:\users\derekslager\documents\junk\rei_levelediter\src\select_tile_tool.cpp
+	"Select_tile_Tool.h"
+
+1508419214 c:\users\derekslager\documents\junk\rei_levelediter\include\text.h
+	"Map.h"
+
+1508419214 source:c:\users\derekslager\documents\junk\rei_levelediter\src\text.cpp
+	"Text.h"
+
